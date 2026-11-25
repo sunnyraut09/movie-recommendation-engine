@@ -1,6 +1,6 @@
 # Personalized Movie Recommendation System
 
-**Live App:** [Click here to open the Movie Recommender](YOUR_LIVE_APP_LINK_HERE)
+**Live App:** [Click here to open the Movie Recommender](https://movie-recommendation-engine-j6yp5qec3rq9rtd72dwaiv.streamlit.app/)
 
 ## 1. Problem Statement & Real-World Relevance
 With thousands of movies available on streaming platforms, users suffer from choice overload and struggle to find movies they will enjoy. This project builds an end-to-end **Personalized Movie Recommendation System** designed for both **new users** (cold-start) and **returning users**. It reduces search time and increases user engagement by suggesting relevant movies based on viewing patterns and genres.
