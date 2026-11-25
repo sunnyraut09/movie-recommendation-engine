@@ -1,0 +1,17 @@
+# Ignore large data files, but keep movies.csv for the live app
+data/*
+!data/raw/
+data/raw/*
+!data/raw/ml-20m/
+data/raw/ml-20m/*
+!data/raw/ml-20m/movies.csv
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter & caches
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
